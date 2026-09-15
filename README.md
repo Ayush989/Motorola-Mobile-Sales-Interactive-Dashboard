@@ -33,14 +33,12 @@ This project is a **single-page, fully interactive Power BI dashboard** built on
 
 ## 🖥️ Dashboard Preview
 
-> 📌 *Add a screenshot/GIF of the dashboard here for a quick visual preview!*
 
-```
+
 ![Dashboard Preview](docs/motorola-dashboard.png)
 
-```
 
----
+
 
 ## 🧩 Key Features
 
